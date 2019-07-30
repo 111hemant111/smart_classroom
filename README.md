@@ -4,6 +4,17 @@ A smart classroom automating students' attendance, lights and fans switching, bo
 ## Status
 Completed but Unorganized. Last update Mar 2016.
 
+## Components used
+1. Arduino Mega 2560
+2. Servo motor
+3. TSOP 1738 IR Receiver
+4. Particle Photon IoT
+5. IR sensors (Ultrasonic sensors in future versions)
+6. 4x3 Keypad
+7. 16x2 LCDs - 2
+8. Universal TV Remote
+9. Misc. components
+
 ## License
 &copy; 2016 Hemant Kuruva
 
