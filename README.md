@@ -1,5 +1,5 @@
 # Smart Classroom
-A smart classroom automating students' attendance, lights and fans switching, board erasing, keypad-based locking in locker-room, remote controlled switching &c. This project's source files are disintegrated.
+A smart classroom automating students' attendance, lights and fans switching, board erasing, keypad-based locking in locker-room, remote controlled switching &c. This project's source files are unconsolidated.
 
 ## Status
 Completed but Unorganized. Last update Mar 2016.
